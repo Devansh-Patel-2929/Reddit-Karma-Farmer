@@ -1,0 +1,28 @@
+{
+  "start_time": "2025-06-08 14:29:24",
+  "end_time": "2025-06-08 15:03:26",
+  "status": "interrupted",
+  "subreddits": {
+    "funny": [
+      {
+        "post_title": "I am not wearing any diamonds (Superhero Movie - 2008)",
+        "post_url": "https://reddit.com/r/funny/comments/1l65xvs/i_am_not_wearing_any_diamonds_superhero_movie_2008/",
+        "comment_text": "\"Still a gem of a movie \ud83e\udd23\"",
+        "timestamp": "2025-06-08 14:30:03"
+      },
+      {
+        "post_title": "Due to bees,...",
+        "post_url": "https://reddit.com/r/funny/comments/1l662vb/due_to_bees/",
+        "comment_text": "\"Bee utiful \ud83d\ude02\"",
+        "timestamp": "2025-06-08 14:43:03"
+      },
+      {
+        "post_title": "Rooster with boundary issues",
+        "post_url": "https://reddit.com/r/funny/comments/1l64m9j/rooster_with_boundary_issues/",
+        "comment_text": "\"Cocky little dude \ud83d\ude02\"",
+        "timestamp": "2025-06-08 14:54:27"
+      }
+    ]
+  },
+  "run_duration": 2042.7897045612335
+}

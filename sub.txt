@@ -1,0 +1,33 @@
+
+# Reddit Subreddits List
+# One subreddit per line (without r/ prefix)
+# Lines starting with # are comments
+
+# Popular general subreddits
+
+AskReddit
+todayilearned
+movies
+aww
+IAmA
+worldnews
+Showerthoughts
+explainlikeimfive
+mildlyinteresting
+NoStupidQuestions
+dataisbeautiful
+lifeprotips
+relationship_advice
+OldSchoolCool
+cosplay
+nosleep
+writingprompts
+unpopularopinion
+TrueOffMyChest
+confessions
+advice
+casualconversation
+mentalhealth
+depression
+emotional_support
+friendships
