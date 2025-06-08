@@ -4,10 +4,6 @@
 
 An intelligent Reddit bot that automatically generates and posts relevant comments using **Groq's lightning-fast AI models**. Perfect for engaging with communities while maintaining natural interaction patterns.
 
-<div align="center">
-  <img src="https://i.imgur.com/9VQqj6A.png" alt="Reddit Bot Diagram" width="600">
-</div>
-
 ---
 
 ## ✨ Key Features
