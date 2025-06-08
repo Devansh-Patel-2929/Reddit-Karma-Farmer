@@ -169,4 +169,3 @@ Contributions are welcome! Please [open an issue](https://github.com/yourusernam
 
 ---
 
-Let me know if you'd like to add badges (stars, forks, license, etc.) or customize the branding section.
