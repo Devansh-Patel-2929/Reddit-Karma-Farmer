@@ -165,7 +165,7 @@ reddit-auto-comment-bot/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please [open an issue](https://github.com/yourusername/reddit-auto-comment-bot/issues) first to discuss what you'd like to change.
+Contributions are welcome! 
 
 ---
 
